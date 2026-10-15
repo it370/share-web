@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/t/:id", "destination": "/api/open?kind=t&id=:id" },
+    { "source": "/r/:id", "destination": "/api/open?kind=r&id=:id" },
+    { "source": "/p/:id", "destination": "/api/open?kind=p&id=:id" },
+    { "source": "/c/:id", "destination": "/api/open?kind=c&id=:id" }
+  ]
+}

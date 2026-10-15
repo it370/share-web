@@ -1,0 +1,5 @@
+{
+  "name": "sinlung-share",
+  "private": true,
+  "description": "Vercel-only share link landings (/t, /r, /p, /c → sinlung:// deep links)"
+}
