@@ -7,7 +7,7 @@ Minimal public host for share URLs only. No dependencies.
 | Path | Opens in app |
 |------|----------------|
 | `/t/:id` | `sinlung://title/:id` |
-| `/r/:id` | `sinlung://r/:id` |
+| `/r/:id` | `sinlung:///r/:id` (path-style; not `sinlung://r/…`) |
 | `/p/:id` | `sinlung://p/:id` |
 | `/c/:id` | `sinlung://c/:id` |
 
